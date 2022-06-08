@@ -18,12 +18,12 @@ global.APIKeys = {
 // Other
 global.Prefix = 'Multi'
 global.modelMenu = 'locButton'
-global.owner = ['6289503657396']
-global.premium = ['6289503657396']
-global.meki = '6289503657396'
-global.ownerNumber = '6289503657396'
+global.owner = ['6288287037007']
+global.premium = ['6288287037007']
+global.meki = '6288287037007'
+global.ownerNumber = '6288287037007'
 global.packname = 'ZyyXtrime'
-global.author = 'REALZI - BOT'
+global.author = 'Kyura-MD'
 global.sessionName = 'Fauzi'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.Mode = 'Public'
